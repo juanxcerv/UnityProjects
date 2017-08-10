@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BrickController.cs" Line="18" Column="4" />
+      <File FileName="Assets/Scripts/BallController.cs" Line="15" Column="3" />
+      <File FileName="Assets/Scripts/FloorCollider.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/PaddleController.cs" Line="12" Column="17" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="17" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/juancervantes/Desktop/Repos/Block Breaker/Assets/Scripts/BrickController.cs" line="9" column="28" />
+      <RunToCursorBreakpoint file="/Users/juancervantes/Desktop/Repos/Block Breaker/Assets/Scripts/BrickController.cs" line="14" column="10" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

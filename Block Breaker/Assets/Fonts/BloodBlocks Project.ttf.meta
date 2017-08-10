@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7169e951cf49044419b83eecd45d0c6a
+timeCreated: 1502001353
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BloodBlocks
+  fontNames:
+  - BloodBlocks
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
